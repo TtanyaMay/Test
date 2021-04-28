@@ -12,7 +12,7 @@ Widget::Widget(QWidget *parent)
 
     Widget1 = new QWidget;
     lay1=new  QGridLayout(Widget1);
-    Tab->addTab(Widget1,QString("Contacts") );
+    Tab->addTab(Widget1,QString("Do_Good") );
 
 
     Widget2 = new QWidget;
